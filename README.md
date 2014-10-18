@@ -9,7 +9,7 @@ Steps to make this work:
 3) Add the directory with the images you want to filter to Input folder.
 4) Add the directory where you want the images with your selected dimensions to go.  
 5) Add any number of dimensions by clicking the Add Dimension button. Enter your dimension in the box that pops up (e.g. 1920x1080).  
-If you want to remove a dimension from the list, simply click the Remove Dimension button and enter the dimensions
+If you want to remove a dimension from the list, simply click the Remove Dimension button and enter the dimensions.  
 6) Click filter.  
 
 Notes:   
