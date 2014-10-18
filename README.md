@@ -4,11 +4,13 @@ ImageFilter
 Filters images with any given dimensions out of any given directory and copies them to another directory.
 
 Steps to make this work:   
-1) Add the directory with the images you want to filter to Input folder.<\br>  
-2) Add the directory where you want the images with your selected dimensions to go.  
-3) Add any number of dimensions by clicking the Add Dimension button. Enter your dimension in the box that pops up (e.g. 1920x1080).  
+1) Download the .zip file and extract it.  
+2) Run ImageFilter.exe. If you get a message from your antivirus software saying it's scanning the file, let it run its course, it shouldn't take long.  
+3) Add the directory with the images you want to filter to Input folder.
+4) Add the directory where you want the images with your selected dimensions to go.  
+5) Add any number of dimensions by clicking the Add Dimension button. Enter your dimension in the box that pops up (e.g. 1920x1080).  
 If you want to remove a dimension from the list, simply click the Remove Dimension button and enter the dimensions
-4) Click filter.  
+6) Click filter.  
 
 Notes:   
 You can't select two dimensions with the same X-value (e.g. 1920x1080 and 1920x1200).  
