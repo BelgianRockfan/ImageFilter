@@ -8,7 +8,7 @@ Steps to make this work:
 OR  
 1) Go to https://github.com/BelgianRockfan/ImageFilter/releases if you only want the .exe  
   
-2) Run ImageFilter.exe. If you get a message from your antivirus software saying it's scanning the file, let it run its course, it shouldn't take long.  
+2) Run ImageFilter.exe (if you downloaded the .zip, it's in \ImageFilter\bin\Debug). If you get a message from your antivirus software saying it's scanning the file, let it run its course, it shouldn't take long.  
 3) Add the directory with the images you want to filter to Input folder.
 4) Add the directory where you want the images with your selected dimensions to go.  
 5) Add any number of dimensions by clicking the Add Dimension button. Enter your dimension in the box that pops up (e.g. 1920x1080).  
