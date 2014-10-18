@@ -95,6 +95,7 @@ namespace ImageFilter
                     }
                     
                 }
+                image.Dispose();
                 //MessageBox.Show(file);
                 image = null;
                 System.GC.Collect();
