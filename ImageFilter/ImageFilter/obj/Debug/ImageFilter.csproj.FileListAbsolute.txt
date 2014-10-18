@@ -1,0 +1,10 @@
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\bin\Debug\ImageFilter.exe.config
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\bin\Debug\ImageFilter.exe
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\bin\Debug\ImageFilter.pdb
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.csprojResolveAssemblyReference.cache
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.Form1.resources
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.Properties.Resources.resources
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.csproj.GenerateResource.Cache
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.exe
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.pdb
+C:\Users\jeroen\Documents\MEGA\SideProjects\ImageFilter\ImageFilter\ImageFilter\obj\Debug\ImageFilter.Form2.resources
