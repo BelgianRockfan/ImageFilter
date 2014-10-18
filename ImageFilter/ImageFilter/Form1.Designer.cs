@@ -67,6 +67,7 @@
             // 
             // txtInput
             // 
+            this.txtInput.Enabled = false;
             this.txtInput.Location = new System.Drawing.Point(12, 75);
             this.txtInput.Name = "txtInput";
             this.txtInput.Size = new System.Drawing.Size(320, 20);
@@ -75,6 +76,7 @@
             // 
             // txtOutput
             // 
+            this.txtOutput.Enabled = false;
             this.txtOutput.Location = new System.Drawing.Point(12, 104);
             this.txtOutput.Name = "txtOutput";
             this.txtOutput.Size = new System.Drawing.Size(320, 20);
@@ -136,7 +138,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(490, 409);
+            this.ClientSize = new System.Drawing.Size(440, 409);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRemoveDmns);
             this.Controls.Add(this.btnAddDmns);
@@ -147,7 +149,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Image Filter";
             this.ResumeLayout(false);
             this.PerformLayout();
 

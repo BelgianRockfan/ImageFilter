@@ -102,7 +102,7 @@
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.label1);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Image Filter";
             ((System.ComponentModel.ISupportInitialize)(this.nmrX)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nmrY)).EndInit();
             this.ResumeLayout(false);
